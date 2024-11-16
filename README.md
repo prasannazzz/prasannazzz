@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasanna Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🌱 I’m currently learning **React**
 
