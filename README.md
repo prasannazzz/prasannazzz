@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Patil</h1>
-<h3 align="center">Actively fostering brautiful projects
+<h3 align="center">"Driven to craft intuitive and engaging web experiences that prioritize user satisfaction."
+
+
 </h3>
 
 - 🌱 I’m currently learning **React**
