@@ -5,16 +5,25 @@ Passionate about building startups, exploring the realms of **Data Structures an
 ---
 
 - 🌱 I’m currently learning Javascript and React and diving deep into **DSA**.
-- 📝 I regularly write articles on [Medium](https://www.quora.com/profile/Prasanna-Patil-70).
+- 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Prasanna-Patil-70).
 - 📫 How to reach me: **proplayer14102004@gmail.com**.
 - ⚡ Fun fact: I can adapt quickly to tech according to requirements.
 
 ---
 
 
-### Connect with Me:
-- 💼 [LinkedIn]
-- 🐦 [Twitter]
+### 🌐 Connect with Me:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prasanna-patil-3a1280269/)
+- 📸 [Instagram](https://www.instagram.com/prasannapatil91/)
+- 🐦 [Twitter](https://x.com/PrasannaPatil10)
+- 📝 [Quora](https://www.quora.com/profile/Prasanna-Patil-70)
+- 🎥 [YouTube](https://www.youtube.com/@CodingKarleBKL-lj3hx)
+- 🧑‍💻 [GitHub](https://github.com/prasannazzz)
+- 🌐 [Portfolio](Comingsoon)
+
+Feel free to reach out or follow me on any of these platforms!
+
 
 ---
 
