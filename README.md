@@ -1,7 +1,8 @@
- # Namaste👋, I'm Prasanna Patil!
- <img align="center" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNDM2NjQsIm5iZiI6MTczMzA0MzM2NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA4NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5YmMxMjI3ZjdlNjk3ZWRlZGZjYjc5MjcwYzYzNTI0NTkyNmUzZDRjZjliNGVlMjQ4YWI4NTE2NTM4ZTYyMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NrdkElfs6mXaggNiuyHz_ma7-qg8ITA5nvDx7tPezp8">
+ # Namaste, I'm Prasanna Patil!
+ 
+ <img align="center" alt="Coding" width="1000" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNDM2NjQsIm5iZiI6MTczMzA0MzM2NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA4NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5YmMxMjI3ZjdlNjk3ZWRlZGZjYjc5MjcwYzYzNTI0NTkyNmUzZDRjZjliNGVlMjQ4YWI4NTE2NTM4ZTYyMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NrdkElfs6mXaggNiuyHz_ma7-qg8ITA5nvDx7tPezp8">
 
-# A Passionate Computer Undergrad from India
+### A Passionate Computer Undergrad from India.
 
 Passionate about building startups, exploring the realms of **Data Structures and Algorithms**, and deeply involved in the development of **decentralized finance (DeFi)** applications.
 
@@ -74,7 +75,7 @@ Feel free to reach out or follow me on any of these platforms!
 
 
 
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ 
 </p>
 
 
