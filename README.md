@@ -38,6 +38,7 @@ I’m always on a mission to balance **humor** with **serious productivity**—a
 <a href="https://x.com/PrasannaPatil10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prasanna-patil-3a1280269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prasannapatil91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/prasanna6774/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodingKarleBKL-lj3hx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
