@@ -1,4 +1,5 @@
 # Hi 👋, I'm Prasanna Patil
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
 
 Passionate about building startups, exploring the realms of **Data Structures and Algorithms**,and deeply involved in the development of **decentralized finance (DeFi)** applications.
 
