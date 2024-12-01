@@ -1,7 +1,4 @@
   # Namaste, I'm Prasanna Patil!
-  <img src=" https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
-
-
 <img align="center" alt="Coding" width="1000" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNDM2NjQsIm5iZiI6MTczMzA0MzM2NCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA4NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5YmMxMjI3ZjdlNjk3ZWRlZGZjYjc5MjcwYzYzNTI0NTkyNmUzZDRjZjliNGVlMjQ4YWI4NTE2NTM4ZTYyMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NrdkElfs6mXaggNiuyHz_ma7-qg8ITA5nvDx7tPezp8">
 
 ### A Passionate Computer Undergrad from India.
@@ -20,7 +17,8 @@ I’m always on a mission to balance **humor** with **serious productivity**—a
 
 ---
 Feel free to reach out or follow me on any of these platforms!
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+[![](https://visitcount.itsvg.in/api?id=prasannazzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
@@ -85,6 +83,6 @@ Feel free to reach out or follow me on any of these platforms!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannazzz&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prasannazzz&icon=0&color=0)](https://visitcount.itsvg.in)
+# Thanks for visiting!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
