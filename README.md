@@ -1,5 +1,5 @@
 # Hi 👋, I'm Prasanna Patil
-<img src="https://cdn.dribbble.com/users/116207/..." alt="Coding" width="400" style="float: right; margin-left: 15px;">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 Passionate about building startups, exploring the realms of **Data Structures and Algorithms**,and deeply involved in the development of **decentralized finance (DeFi)** applications.
 
