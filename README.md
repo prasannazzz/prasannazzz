@@ -1,6 +1,6 @@
  # Namaste👋, I'm Prasanna Patil!
   # A passionate Software Engineer from India
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNDM2NjQsIm5iZiI6MTczMzA0MzM2NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAxVDA4NTYwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4YTU1ZDMxY2IwN2RkMjRmMjFlOTMzNTNkZjY3ZjhmZDFlNDA0ZDZkNzk4ZjRmZDdmOWNkNjViMjE4NGU3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zm0L6OAl0l1sW4Z5qs5YZgWSvwUtiAn_8bYMxQRXtDU">
 
 Passionate about building startups, exploring the realms of **Data Structures and Algorithms**,and deeply involved in the development of **decentralized finance (DeFi)** applications.
 
