@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Namaste+,+I+am+Prasanna+Patil+!;)](https://git.io/typing-svg)
-<img align="center" alt="Coding" width="1000" src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png">
+<img align="center" alt="Coding" width="1000" src="https://i.redd.it/a6uodmc237391.gif">
 
 ## A Passionate Computer Undergrad from India.
 Passionate about building startups, exploring the realms of **Data Structures and Algorithms**, and deeply involved in the development of **decentralized finance (DeFi)** applications.
