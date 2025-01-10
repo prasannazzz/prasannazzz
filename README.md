@@ -81,6 +81,7 @@ Feel free to reach out or follow me on any of these platforms!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prasannazzz&theme=rose_pine&hide_border=false)<br/>
+![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannazzz&show_icons=true&bg_color=00000000)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannazzz&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
