@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Namaste+,+I+am+Prasanna+Patil+!;)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prasannazzz)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="center" alt="Coding" width="1000" src="https://camo.githubusercontent.com/9a23836503c0a69b966ecf2a67d94a78ede959e6aa1ad60012d1589e7db445ba/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f433444313641514874456f4c496f5063594f672f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f302f313635363037333033333037393f653d3231343734383336343726763d6265746126743d33373733326e5344545f534f2d72436b6643326c7732345248377466725672596d346c4b724244474f5177">
 
